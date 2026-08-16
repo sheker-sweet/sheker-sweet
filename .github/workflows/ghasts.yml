@@ -15,10 +15,12 @@ jobs:
       - uses: actions/checkout@v5
       - uses: tiennm99/ghstats@v1
         with:
-          user: ${{ github.sheker-sweet }}
+          # use repository owner context instead of an invalid context key
+          user: sheker-sweet
           token: ${{ secrets.GHSTATS_TOKEN }}   # classic PAT with read:user + repo
           themes: dracula,github_dark,tokyonight
-          tz: Boston/USA
+          # use a valid TZ identifier
+          tz: America/New_York
           include_forks: "true"
           include_private: "true"
           include_org_repos: "false"  # "true" also counts org repos you administer (token needs read:org)
