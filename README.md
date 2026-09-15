@@ -9,15 +9,15 @@
 
 ## ├──📂 Connect with me:
 
-<p> 
+<!-- <p> 
 <a href="mailto:sa109@wellesley.edu"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=pink" /> </a> 
 <a href="www.linkedin.com/in/sheker-atayeva" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=pink" /> </a> 
-</p>
+</p> -->
 
-<!-- ```sh
-    > email      -> sa109@wellesley.edu
-    > linkedin   -> linkedin.com/in/sheker-atayeva
-``` -->
+```sh
+  > email      -> sa109@wellesley.edu
+  > linkedin   -> linkedin.com/in/sheker-atayeva
+```
 
 
 
@@ -38,10 +38,24 @@ hobbies:
 <!-- ## ├──📂Activity 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=github-compact&hide_border=true&title=Magrelaio%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/> -->
 
-## └──Projects
+<!-- <h2 align="center">📊 GitHub Stats</h2>
+<img src="./output/dracula/repos-per-language.svg" width="100%" />
+</p> -->
+
+
+
+
+## └──Recent Projects
 
 ```sh
+'SHiVAi' @MPI CBS: 
+- Neuroimaging pipeline adaptation and HPC workflow development for ~10,000 LIFE MRI subjects.
 
+'NeuroBOLT' @ MPI CBS: 
+- EEG-to-fMRI Transformer extension using attention pooling for electrode and frequency-band interpretation.
+
+'ASL Classifier' @ DIS Copenhagen: 
+- DenseNet201-based ASL fingerspelling classification trained on ~60,000 images, achieving 89% cross-dataset accuracy.
 ```
 
 
