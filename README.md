@@ -7,49 +7,42 @@
 
 
 
-## ├──📂 Links
-
-```sh
-    > Connect with me:
-    > website    -> www.caiocesardev.com.br
-    > email      -> sa109@wellesley.edu
-    > linkedin   ->
-    > resume     -> 
-
-```
-## ├──📂 Links
-
-```sh
-    > Connect with me:
-    > website    -> www.caiocesardev.com.br
-    > email      -> sa109@wellesley.edu
-    > linkedin   ->
-    > resume     -> 
-```
-
+## ├──📂 Connect with me:
 
 <p> 
-<a href="mailto:sa109@wellesley.edu"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> 
-<a href="www.linkedin.com/in/sheker-atayeva" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /> </a> 
+<a href="mailto:sa109@wellesley.edu"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=pink" /> </a> 
+<a href="www.linkedin.com/in/sheker-atayeva" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=pink" /> </a> 
 </p>
+
+<!-- ```sh
+    > email      -> sa109@wellesley.edu
+    > linkedin   -> linkedin.com/in/sheker-atayeva
+``` -->
+
+
+
 
 ## ├──📂About me
 
-```yaml
+```sh
 name: Sheker
-
+level: junior
 location: Boston
-interests:
-  - Build up modern systems
-  - Make efficient APIs
-  - Photography, check out my website ;)
+academic interests:
+    - Cognitive + Computer Sciences, especially to support vulnerable populations
+    - Computational neuroscience & neuroimaging
+hobbies:
+    - Photography (check out my website), climbing (just started lead climbing) and reading (my fav book is "Howl's Moving Castle" by Diane Wynne Jones)
 ```
 
-## ├──📂Activity 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=github-compact&hide_border=true&title=Magrelaio%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/> -->
+<!-- ## ├──📂Activity 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=github-compact&hide_border=true&title=Magrelaio%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/> -->
 
-## └──📂Portfolio
+## └──Projects
 
+```sh
+
+```
 
 
 <!-- <table align="center">
@@ -72,5 +65,23 @@ interests:
 </table> -->
 
 
-<!-- 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div> -->
+
+
+
+<!-- To use the ghstats.yml:  -->
+<!-- ![profile](./output/dracula/profile-details.svg)
+![repos-per-language](./output/dracula/repos-per-language.svg)
+![most-commit-language](./output/dracula/most-commit-language.svg)
+![stats](./output/dracula/stats.svg)
+![productive-time](./output/dracula/productive-time.svg)
+![productive-weekday](./output/dracula/productive-weekday.svg)
+![contributions](./output/dracula/contributions.svg)
+![contributions-heatmap](./output/dracula/contributions-heatmap.svg)
+![top-starred-repos](./output/dracula/top-starred-repos.svg)
+![streak](./output/dracula/streak.svg)
+![most-commit-language-all-time](./output/dracula/most-commit-language-all-time.svg)
+![productive-time-all-time](./output/dracula/productive-time-all-time.svg)
+![productive-weekday-all-time](./output/dracula/productive-weekday-all-time.svg)
+![contributions-all-time](./output/dracula/contributions-all-time.svg)
+![contributions-by-year](./output/dracula/contributions-by-year.svg)
+![records](./output/dracula/records.svg) -->
