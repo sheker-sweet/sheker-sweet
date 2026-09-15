@@ -7,7 +7,7 @@
 
 
 
-## ├──📂 Connect with me:
+## └─ Connect with me:
 
 <!-- <p> 
 <a href="mailto:sa109@wellesley.edu"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=pink" /> </a> 
@@ -22,11 +22,11 @@
 
 
 
-## ├──📂About me
+## └─About me
 
 ```sh
 name: Sheker
-level: junior
+level: junior @ Wellesley College
 location: Boston
 academic interests:
     - Cognitive + Computer Sciences, especially to support vulnerable populations
@@ -45,7 +45,7 @@ hobbies:
 
 
 
-## └──Recent Projects
+## └─Recent Projects
 
 ```sh
 'SHiVAi' @MPI CBS: 
